@@ -207,7 +207,7 @@ Official dataset page: [http://vis-www.cs.umass.edu/lfw/](http://vis-www.cs.umas
 
 Sohn K, Lee H, Yan X. Learning Structured Output Representation using Deep Conditional Generative Models[C]//Advances in Neural Information Processing Systems. 2015: 3483-3491.
 
-arXiv: [https://arxiv.org/abs/1506.02241](https://arxiv.org/abs/1506.02241)
+arXiv: [https://arxiv.org/abs/2203.01218](https://arxiv.org/abs/2203.01218)
 
 本复现用到的变分自编码器：
 
