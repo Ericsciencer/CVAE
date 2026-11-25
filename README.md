@@ -81,6 +81,8 @@ z, x → p(y|x,z) → ŷ
 
 优化器都是 Adam，学习率 `1e-3`，种子 0。对数方差层的权重和偏置初始化为 0，让训练开始时先验和后验接近标准正态。
 
+架构更多细节见文章：[CVAE深入浅出](https://blog.csdn.net/Eric005/article/details/171315153?fromshare=blogdetail&sharetype=blogdetail&sharerId=171315153&sharerefer=PC&sharesource=Eric005&sharefrom=from_link)
+
 ## 数据集
 
 两个实战共用上面的三套网络和重参数化。条件、输出和重构区域不同。都不做翻转。
