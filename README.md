@@ -205,9 +205,9 @@ Official dataset page: [http://vis-www.cs.umass.edu/lfw/](http://vis-www.cs.umas
 
 ## 原文章 | Original article
 
-Sohn K, Lee H, Yan X. Learning Structured Output Representation using Deep Conditional Generative Models[C]//Advances in Neural Information Processing Systems. 2015: 3483-3491.
+Kihyuk Sohn, Xinchen Yan, and Honglak Lee. 2015. Learning structured output representation using deep conditional generative models. In Proceedings of the 29th International Conference on Neural Information Processing Systems - Volume 2 (NIPS'15), Vol. 2. MIT Press, Cambridge, MA, USA, 3483–3491.
 
-arXiv: [https://arxiv.org/abs/2203.01218](https://arxiv.org/abs/2203.01218)
+arXiv: [https://papers.nips.cc/paper_files/paper/2015/file/8d55a249e6baa5c06772297520da2051-Paper.pdf](https://papers.nips.cc/paper_files/paper/2015/file/8d55a249e6baa5c06772297520da2051-Paper.pdf)
 
 本复现用到的变分自编码器：
 
